@@ -1,2 +1,3 @@
-# hello_world
-Hello World NPM package
+# README
+
+Learning how to publish an npm package.

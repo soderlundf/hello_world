@@ -1,0 +1,23 @@
+{
+  "name": "@soderlundf/hello_world",
+  "version": "1.0.0",
+  "description": "A simple Hello, World package.",
+  "keywords": [
+    "hello"
+  ],
+  "homepage": "https://github.com/soderlundf/hello_world#readme",
+  "bugs": {
+    "url": "https://github.com/soderlundf/hello_world/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soderlundf/hello_world.git"
+  },
+  "license": "MIT",
+  "author": "Freddy Söderlund",
+  "type": "commonjs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
